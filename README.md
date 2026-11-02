@@ -1,2 +1,2 @@
 # korean-doc-assistant
-Q$A assistant for Korean documents (RAG)
+Q&A assistant for Korean documents (RAG)
